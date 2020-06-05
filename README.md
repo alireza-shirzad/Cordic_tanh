@@ -1,5 +1,5 @@
 # Cordic hyperbolic tangent
-This is an implementation and simulation of hyperbolic tangent function using
+his is an implementation and simulation of hyperbolic tangent function using
  Cordic algorithm. The .m files are merely for simulation, verification and test
  generation but the verilog scripts can be used directly as modules in a project.
  
@@ -39,4 +39,5 @@ output of the cordic_test_generator.m and input to the cordic_tb.v
 ### test.txt
 output of the cordic_tb.v and input to the cordic_test_check.m
 ## Results
-<img src="https://github.com/alireza-shirzad/Cordic_tanh/blob/master/Result.png" height="500" width="1500" >
+The final result with 18 bits of word length and 16 bits of fraction length is shown in the figure bellow:
+<img src="https://github.com/alireza-shirzad/Cordic_tanh/blob/master/Result.png" height="500" width="1500">
