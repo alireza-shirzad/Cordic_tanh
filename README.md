@@ -38,3 +38,5 @@ file.
 output of the cordic_test_generator.m and input to the cordic_tb.v
 ### test.txt
 output of the cordic_tb.v and input to the cordic_test_check.m
+## Rsults
+<img src="Cordic.png" height="48" width="48" >
