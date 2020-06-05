@@ -38,5 +38,5 @@ file.
 output of the cordic_test_generator.m and input to the cordic_tb.v
 ### test.txt
 output of the cordic_tb.v and input to the cordic_test_check.m
-## Rsults
+## Results
 <img src="https://github.com/alireza-shirzad/Cordic_tanh/blob/master/Result.png" height="500" width="1500" >
