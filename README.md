@@ -39,4 +39,4 @@ output of the cordic_test_generator.m and input to the cordic_tb.v
 ### test.txt
 output of the cordic_tb.v and input to the cordic_test_check.m
 ## Rsults
-<img src="https://github.com/alireza-shirzad/Cordic_tanh/blob/master/Result.png" height="1500" width="800" >
+<img src="https://github.com/alireza-shirzad/Cordic_tanh/blob/master/Result.png" height="800" width="1500" >
